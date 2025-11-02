@@ -39,3 +39,24 @@ This project showcases hands-on practice in **SQL for Data Analytics**, where I 
 - Data cleaning and transformation queries
 
 ---
+## ✅ Learning Outcomes
+
+- Improved SQL query writing skills  
+- Learned how analysts break down business problems  
+- Built industry-style analytical SQL scripts  
+- Strengthened foundation for BI and data engineering projects  
+
+---
+
+## 🙏 Acknowledgment
+
+Special thanks to **Baraa Khatib Salkini** for guidance and support during this learning journey.  
+
+---
+
+## 🚀 Next Steps
+
+- Visualize these SQL outputs in Power BI / Tableau
+- Practice performance tuning and indexing
+- Build end-to-end analytics projects with ETL + SQL + Dashboard
+
